@@ -2,7 +2,6 @@
 
 - 🌱 I’m currently learning about computer architecture and high performance computing.
 - 🔭 I’m willing and open to collaborate on interesting open source projects.
-- 😄 Pronouns: He/Him/His
 
 <!--
 **eric1iao/eric1iao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
